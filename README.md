@@ -2,10 +2,10 @@
 ## Basic info
 This work aims to set a basic framework for data collection during concrete 3D printing. Collected data could be used for static simulation, improvement of printing process and to develop system that can control water amount mixed with mortar and accelerant amount. This work was supported by the Grant Agency of the Czech Technical University in Prague, grant No. SGS 161 - 1612103E000.
 ## Technology used
-For measuring experiments I used printing setup tested on printing first Czech 3D printed house - Prvok. This setup consist of ABB IRB 6700 industrial robot, M-tec P50 pump, M-tec D30 mixer, 
+For measuring experiments I used printing setup tested on printing first Czech 3D printed house - Prvok. This setup consist of ABB IRB 6700 industrial robot, M-tec P50 pump, M-tec D30 mixer and hose 20 m long with inner dimater 35 mm. Material used is Master Flow 3D 100, it a plastic mortar with accelerant and pp fibres.
 
 ### Consistency of material in the system
-Preassure measurement can indicate, if material goes threw system without troubles, or getting either too solid or liquid. If preassure drops, too liquid material is being pushed and when it extrudes, layers will not hold its shape and setting time will be prolonged. This can lead to collaps of printed structure. If material is too dry, preassure rises, because pump has to push material harder. After extrusion you can see cracks and there is a chance that the hose will get blocked by stiffened concrete. Preassure measurement might be done by preassure sensors. One should be at the connection of pump and hose
+Preassure measurement can indicate, if material goes threw system without troubles, or getting either too solid or liquid. If preassure drops, too liquid material is being pushed and when it extrudes, layers will not hold its shape and setting time will be prolonged. This can lead to collaps of printed structure. If material is too dry, preassure rises, because pump has to push material harder. After extrusion you can see cracks and there is a chance that the hose will get blocked by stiffened concrete. Preassure measurement might be done by preassure sensors. One should be at the connection of the pump and the hose.
 
 
 
