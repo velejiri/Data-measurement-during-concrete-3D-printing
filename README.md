@@ -11,17 +11,13 @@ Preassure measurement can indicate, if material goes threw system without troubl
 
 ## Helpful links
 Simple 3 Phase Arduino Energy Meter
-
 https://www.instructables.com/Simple-3-Phase-Arduino-Energy-Meter/
 
 How To Control a Stepper Motor with A4988 Driver and Arduino
-
 https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/
 
 WIDTH AND GAP MEASUREMENT
-
 https://www.acuitylaser.com/laser-sensors/case-studies/accuprofile-820-laser-scanner/width-and-gap-measurement/
 
 Meteorino: Extend Battery Life on NodeMCU? Just Switch It Off.
-
 https://www.instructables.com/Meteorino-Extend-Battery-Life-on-NodeMCU-Just-Swit/
