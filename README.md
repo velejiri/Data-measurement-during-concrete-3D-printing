@@ -10,7 +10,7 @@ Environment - Low temperature slows process of setting of concrete. Eventually i
 Water - Mixing concrete with warm water may speed up setting of concrete. This may help while printing in low temperature environment.
 Amountof mixed water: Should react to environment temperature. In warmer places it is safer to mix more water.
 
-Mortar - Material should have a room temperature. If stored outside it can freeze and next day mortar doesn´t set properly.
+Material - Material should have a room temperature. If stored outside it can freeze and next day mortar doesn´t set properly. Also it is better if accelerant is mixed directly in the nozzle. This solution is more complicated than have it already mixed in dry mixture, but offers ideal dosage according to other conditions.
 
 Speed of Mixer - Mixer mixes material too fast, so there have to be set on/off periods. Also sometimes water input gets stuck and less or more water is mixed.
 
