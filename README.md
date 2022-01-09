@@ -2,6 +2,8 @@
 ## Basic info
 This work aims to set a basic framework for data collection during concrete 3D printing. Collected data could be used for static simulation, improvement of printing process and to develop system that can control water amount mixed with mortar and accelerant amount. This work was supported by the Grant Agency of the Czech Technical University in Prague, grant No. SGS 161 - 1612103E000.
 ## Technology used
+For measuring purposess I used Arduino and Raspberry Pi hardware. Flowmeter YF-S201 connected to NodeMCU sends data about amount of mixed water, DHT 11 measures ambient temperatre and humidity, ESP-32 camera checks extrusion. All sensors are connected to wifi and send data to the Raspberry Pi. Node-red flow on Raspberry Pi stores data on SD card and you can also access live measurings from your phone. In the second stage I would like to construct reactive system, where amont of mixed water will be controled according to ambient environment to achieve constant extrusion quality.
+## Printing setup
 For measuring experiments I used printing setup tested on printing first Czech 3D printed house - Prvok. This setup consist of ABB IRB 6700 industrial robot, M-tec P50 pump, M-tec D30 mixer and hose 20 m long with inner dimater 35 mm. Material used is Master Flow 3D 100, it a plastic mortar with accelerant and pp fibres.
 
 ## Variables influencing prinitng quality
