@@ -41,3 +41,15 @@ https://www.acuitylaser.com/laser-sensors/case-studies/accuprofile-820-laser-sca
 
 Meteorino: Extend Battery Life on NodeMCU? Just Switch It Off.
 https://www.instructables.com/Meteorino-Extend-Battery-Life-on-NodeMCU-Just-Swit/
+
+$9 RTSP Video Streamer Using the ESP32-CAM Board
+https://www.instructables.com/9-RTSP-Video-Streamer-Using-the-ESP32-CAM-Board/
+
+Raspberry Pi 4 Getting Started
+https://www.youtube.com/watch?v=BpJCAafw2qE
+
+ESP8266 and Node-RED with MQTT (Publish and Subscribe)
+https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
+
+Auto Logger - Store Node-Red data in daily CSV files
+https://www.youtube.com/watch?v=E2aBIqssQLM
