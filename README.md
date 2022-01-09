@@ -5,8 +5,7 @@ This work aims to set a basic framework for data collection during concrete 3D p
 For measuring experiments I used printing setup tested on printing first Czech 3D printed house - Prvok. This setup consist of ABB IRB 6700 industrial robot, M-tec P50 pump, M-tec D30 mixer and hose 20 m long with inner dimater 35 mm. Material used is Master Flow 3D 100, it a plastic mortar with accelerant and pp fibres.
 
 ## Variables influencing prinitng quality
-Environment - Temperature: Low temperature slows process of setting of concrete. Eventually it may cause colaps of printed structure. High temperature may cause concrete to set somewhere in the system (mixer, pump, hose, nozzle). Ideal temperature is around 20 degrees of celsius
-- Humidity: Low humidity also slows process of setting of concrete. It should be below 70%
+Environment - Low temperature slows process of setting of concrete. Eventually it may cause colaps of printed structure. High temperature may cause concrete to set somewhere in the system (mixer, pump, hose, nozzle). Ideal temperature is around 20 degrees of celsius. Low humidity also slows process of setting of concrete. It should be below 70%
 
 Water - Mixing concrete with warm water may speed up setting of concrete. This may help while printing in low temperature environment.
 Amountof mixed water: Should react to environment temperature. In warmer places it is safer to mix more water.
