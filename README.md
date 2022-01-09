@@ -55,3 +55,18 @@ https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
 
 Auto Logger - Store Node-Red data in daily CSV files
 https://www.youtube.com/watch?v=E2aBIqssQLM
+
+How to Use Water Flow Sensor - Arduino Tutorial
+https://www.instructables.com/How-to-Use-Water-Flow-Sensor-Arduino-Tutorial/
+
+Arduino talking MQTT to Node-Red
+https://funprojects.blog/2018/03/04/arduino-talking-mqtt-to-node-red/
+
+recursivecodes/water-tracker
+https://github.com/recursivecodes/water-tracker/tree/master/client/water_tracker
+
+klanjabrik/README.MD
+https://gist.github.com/klanjabrik/367d7d370f27703425e7a77475b18b16
+
+waterflow_mqtt/waterflow_mqtt.ino
+https://github.com/aitspk/waterflow_mqtt/blob/master/waterflow_mqtt.ino
